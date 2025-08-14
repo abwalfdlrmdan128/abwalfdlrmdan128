@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm a Full Stack .NET Developer | Software Engineer from Luxor university</h3>
+<h2 align="left">I'm a Full Stack .NET Developer | Software Engineer from Luxor university</h2>
 
 ###
 
